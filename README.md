@@ -1,0 +1,3 @@
+# Objective-C Method Swizzling Errors
+
+This repository demonstrates common errors and pitfalls when performing method swizzling in Objective-C and provides solutions.  Method swizzling, while powerful, requires careful attention to detail to avoid runtime crashes or unexpected program behavior.  The `bug.m` file showcases incorrect swizzling practices.  The `bugSolution.m` file presents corrected and robust versions.
